@@ -1,7 +1,7 @@
 import subprocess
 
 def main():
-    print("privet123!")
+    print("hi!")
 
 if __name__ == "__main__":
     # Run the update script before starting the main program
